@@ -11,7 +11,7 @@ date: March 20, 2025
 
 ## What is JupyterLab?
 - Web-based interactive environment
-- Supports interleavingfunctioal code with data exploration & presentation in single portable file
+- Supports interleavingfunctioal code with data exploration and presentation in single portable file
 - Runs Python, R, Julia, and more
 - Excellent tool for data science and teaching
 
