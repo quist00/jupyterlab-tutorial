@@ -1,20 +1,48 @@
-# Presentation title
+---
+title: Introduction to JupyterLab via JupyterHub
+author: Adapted from Carpentries Curriculum
+date: March 20, 2025
+---
 
-Robert Turner, Paul Richmond, University of Sheffield RSE Team
-September, 2021
+# Introduction to JupyterLab
+- A 30-minute overview
+- Using JupyterHub for access
+- Based on Carpentries "Plotting and Programming in Python"
 
-# Slide 1 Title
+## What is JupyterLab?
+- Web-based interactive environment
+- Part of the Jupyter project
+- Supports notebooks, code, and data exploration
+- Runs Python, R, Julia, and more
+- Ideal for data science and teaching
 
-Thanks for coming, thanks to the conference organisers, thanks to the RSE team at Sheffield, Paul Richmond in particular.
+## Accessing JupyterLab via JupyterHub
+- No local installation needed
+- Open your web browser (e.g., Chrome, Firefox)
+- Go to your JupyterHub URL (e.g., `https://hub.example.org`)
+- Log in with provided credentials
+- Select JupyterLab from the launcher interface
 
-# Slide 2 Title
+## JupyterLab Interface
+- **Menu Bar**: File, Edit, View, Run options
+- **Left Side Bar**: File browser, running kernels, extensions
+- **Main Work Area**: Notebooks, terminals, or text editors
+- Flexible layout for multitasking
 
-![Bob Turner](images/bobicorn.jpg){ height=256px }
+## Kernels in JupyterLab
+- Separate processes for executing code
+- Default kernel: Often Python 3 (depends on Hub setup)
+- Other options: R, Julia (if configured by admin)
+- Switch kernels via Kernel menu or launcher
 
-Mix of software engineering and research experience.
+## Closing JupyterLab
+- Save your work: File > Save Notebook
+- Log out via Hub control panel (top-right, usually)
+- Session persists until timeout (set by admin)
+- Reconnect by revisiting JupyterHub URL
 
-# Slide 3 Title
-
-![RSE](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/raw/master/assets/images/logo/rse-logoonly-stroke.png){ height=256px }
-
-13 RSEs, 35 projects / year worth ~£11m total
+## Resources
+- [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
+- [JupyterHub User Guide](https://jupyterhub.readthedocs.io/en/stable/getting-started/users-getting-started.html)
+- [Carpentries Lesson](http://swcarpentry.github.io/python-novice-gapminder/)
+- Ask your JupyterHub admin for specific setup details
