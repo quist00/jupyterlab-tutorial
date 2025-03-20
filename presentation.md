@@ -43,6 +43,6 @@ date: March 20, 2025
 
 ## Resources
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
-- [JupyterHub User Guide](https://jupyterhub.readthedocs.io/en/stable/getting-started/users-getting-started.html)
-- [Carpentries Lesson](http://swcarpentry.github.io/python-novice-gapminder/)
-- Ask your JupyterHub admin for specific setup details
+- [JupyterHub User Guide](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/)
+- CSUF Jupyterhub(https://www.fullerton.edu/it/services/software/jupyter/)
+
