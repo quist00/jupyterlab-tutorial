@@ -1,6 +1,6 @@
 ---
 title: Introduction to JupyterLab via JupyterHub
-author: Adapted from Carpentries Curriculum
+author: David Palmquist
 date: March 20, 2025
 ---
 
