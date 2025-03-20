@@ -58,5 +58,5 @@ date: March 20, 2025
 ## Resources
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 - [JupyterHub User Guide](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/)
-- CSUF Jupyterhub(https://www.fullerton.edu/it/services/software/jupyter/)
+- [CSUF Jupyterhub](https://www.fullerton.edu/it/services/software/jupyter/)
 
