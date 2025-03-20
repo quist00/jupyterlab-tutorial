@@ -5,23 +5,37 @@ date: March 20, 2025
 ---
 
 # Introduction to JupyterLab
-- A 30-minute overview
-- Using JupyterHub for access
-- Based on Carpentries "Plotting and Programming in Python"
+- 
+- David Palmquist
+- 
 
 ## What is JupyterLab?
 - Web-based interactive environment
-- Part of the Jupyter project
-- Supports notebooks, code, and data exploration
+- Supports interleavingfunctioal code with data exploration & presentation in single portable file
 - Runs Python, R, Julia, and more
-- Ideal for data science and teaching
+- Excellent tool for data science and teaching
+
+## How can you leverage Jupyter
+- Local Computer
+  -Takes more work, limited to your hardware, but data never leaves your computer
+- Google Collab
+- JupyterLite
+- Jupyterhub aka Titan Computing Hub
 
 ## Accessing JupyterLab via JupyterHub
 - No local installation needed
 - Open your web browser (e.g., Chrome, Firefox)
-- Go to your JupyterHub URL (e.g., `https://hub.example.org`)
-- Log in with provided credentials
-- Select JupyterLab from the launcher interface
+- Go to your JupyterHub URL (e.g., `https://www.fullerton.edu/it/services/software/jupyter`)
+- Select `Launch JupyterHUB` from the launcher interface
+- Select `JupyterHub (Nautilus)
+- Log in with campus credentials (Select Campus from provider dropdown)
+
+## Accessing JupyterLab via JupyterHub
+- set minimum hardware requirements
+- press start
+- wait for instance to go live
+    - you start with 5gb space
+    - filling it can stop your isntances from launching
 
 ## JupyterLab Interface
 - **Menu Bar**: File, Edit, View, Run options
