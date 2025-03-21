@@ -23,6 +23,7 @@ jobs:
           args: >-  # allows you to break string into multiple lines
             --self-contained   
             -t revealjs
+            -V revealjs-url=https://cdn.jsdelivr.net/npm/reveal.js
             -V theme=moon
             -o docs/index.html
             presentation.md
