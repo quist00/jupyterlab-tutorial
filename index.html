@@ -3,7 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
-  <title>presentation</title>
+  <meta name="author" content="David Palmquist">
+  <meta name="dcterms.date" content="2025-03-20">
+  <title>Introduction to JupyterLab via JupyterHub</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -378,16 +380,20 @@ background-color: var(--r-background-color);
   <div class="reveal">
     <div class="slides">
 
-
-<section id="introduction-to-jupyterlab" class="slide level2">
-<h2># Introduction to JupyterLab</h2>
-<ul>
-<li>David Palmquist</li>
-<li></li>
-</ul>
+<section id="title-slide">
+  <h1 class="title">Introduction to JupyterLab via JupyterHub</h1>
+  <p class="author">David Palmquist</p>
+  <p class="date">March 20, 2025</p>
 </section>
-<section id="what-is-jupyterlab" class="slide level2">
-<h2>What is JupyterLab?</h2>
+
+<section id="introduction-to-jupyterlab" class="slide level1">
+<h1>Introduction to JupyterLab</h1>
+<ul>
+<li>What is it?</li>
+<li>How can you access it?</li>
+<li>Interface Basics</li>
+</ul>
+<h2 id="what-is-jupyterlab">What is JupyterLab?</h2>
 <ul>
 <li>Web-based interactive environment</li>
 <li>Supports interleavingfunctioal code with data exploration and
@@ -395,9 +401,7 @@ presentation in single portable file</li>
 <li>Runs Python, R, Julia, and more</li>
 <li>Excellent tool for data science and teaching</li>
 </ul>
-</section>
-<section id="how-can-you-leverage-jupyter" class="slide level2">
-<h2>How can you leverage Jupyter</h2>
+<h2 id="how-can-you-leverage-jupyter">How can you leverage Jupyter</h2>
 <ul>
 <li>Local Computer -Takes more work, limited to your hardware, but data
 never leaves your computer</li>
@@ -405,23 +409,26 @@ never leaves your computer</li>
 <li>JupyterLite</li>
 <li>Jupyterhub aka Titan Computing Hub</li>
 </ul>
-</section>
-<section id="accessing-jupyterlab-via-jupyterhub" class="slide level2">
-<h2>Accessing JupyterLab via JupyterHub</h2>
+<h2 id="accessing-jupyterlab-via-jupyterhub">Accessing JupyterLab via
+JupyterHub</h2>
 <ul>
 <li>No local installation needed</li>
 <li>Open your web browser (e.g., Chrome, Firefox)</li>
-<li>Go to your JupyterHub URL (e.g.,
-<code>https://www.fullerton.edu/it/services/software/jupyter</code>)</li>
-<li>Select <code>Launch JupyterHUB</code> from the launcher
-interface</li>
-<li>Select `JupyterHub (Nautilus)</li>
-<li>Log in with campus credentials (Select Campus from provider
-dropdown)</li>
+<li>Go to your JupyterHub URL
+-https://www.fullerton.edu/it/services/software/jupyter</li>
 </ul>
-</section>
-<section id="accessing-jupyterlab-via-jupyterhub-1" class="slide level2">
-<h2>Accessing JupyterLab via JupyterHub</h2>
+<h2 id="accessing-jupyterlab-via-jupyterhub-1">Accessing JupyterLab via
+JupyterHub</h2>
+<ul>
+<li>Select <code>Launch JupyterHUB</code></li>
+<li>Select `JupyterHub (Nautilus)</li>
+<li>Log in with campus credentials
+<ul>
+<li>Select Campus from provider dropdown</li>
+</ul></li>
+</ul>
+<h2 id="accessing-jupyterlab-via-jupyterhub-2">Accessing JupyterLab via
+JupyterHub</h2>
 <ul>
 <li>set minimum hardware requirements</li>
 <li>press start</li>
@@ -431,38 +438,29 @@ dropdown)</li>
 <li>filling it can stop your isntances from launching</li>
 </ul></li>
 </ul>
-</section>
-<section id="jupyterlab-interface" class="slide level2">
-<h2>JupyterLab Interface</h2>
+<h2 id="jupyterlab-interface">JupyterLab Interface</h2>
 <ul>
 <li><strong>Menu Bar</strong>: File, Edit, View, Run options</li>
 <li><strong>Left Side Bar</strong>: File browser, running kernels,
 extensions</li>
 <li><strong>Main Work Area</strong>: Notebooks, terminals, or text
 editors</li>
-<li>Flexible layout for multitasking</li>
 </ul>
-</section>
-<section id="kernels-in-jupyterlab" class="slide level2">
-<h2>Kernels in JupyterLab</h2>
+<h2 id="operations-tips-shortcuts">Operations, Tips, Shortcuts</h2>
 <ul>
-<li>Separate processes for executing code</li>
-<li>Default kernel: Often Python 3 (depends on Hub setup)</li>
-<li>Other options: R, Julia (if configured by admin)</li>
-<li>Switch kernels via Kernel menu or launcher</li>
+<li>Making a markdown cell</li>
+<li>Making a code cell</li>
+<li>Running cells</li>
+<li>Command mode and keyboard shortcuts</li>
 </ul>
-</section>
-<section id="closing-jupyterlab" class="slide level2">
-<h2>Closing JupyterLab</h2>
+<h2 id="closing-jupyterlab">Closing JupyterLab</h2>
 <ul>
 <li>Save your work: File &gt; Save Notebook</li>
-<li>Log out via Hub control panel (top-right, usually)</li>
+<li>Log out via Hub control panel (File Menu)</li>
 <li>Session persists until timeout (set by admin)</li>
 <li>Reconnect by revisiting JupyterHub URL</li>
 </ul>
-</section>
-<section id="resources" class="slide level2">
-<h2>Resources</h2>
+<h2 id="resources">Resources</h2>
 <ul>
 <li><a href="https://jupyterlab.readthedocs.io/en/stable/">JupyterLab
 Documentation</a></li>
