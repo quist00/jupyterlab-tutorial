@@ -1,7 +1,13 @@
+---
+title: Introduction to JupyterLab via JupyterHub
+author: David Palmquist
+date: March 20, 2025
+---
+
 # Introduction to JupyterLab
-- 
-- David Palmquist
-- 
+- What is it?
+- How can you access it?
+- Interface Basics  
 
 ## What is JupyterLab?
 - Web-based interactive environment
@@ -19,10 +25,14 @@
 ## Accessing JupyterLab via JupyterHub
 - No local installation needed
 - Open your web browser (e.g., Chrome, Firefox)
-- Go to your JupyterHub URL (e.g., `https://www.fullerton.edu/it/services/software/jupyter`)
-- Select `Launch JupyterHUB` from the launcher interface
+- Go to your JupyterHub URL 
+  -https://www.fullerton.edu/it/services/software/jupyter
+  
+## Accessing JupyterLab via JupyterHub
+- Select `Launch JupyterHUB`
 - Select `JupyterHub (Nautilus)
-- Log in with campus credentials (Select Campus from provider dropdown)
+- Log in with campus credentials
+  - Select Campus from provider dropdown
 
 ## Accessing JupyterLab via JupyterHub
 - set minimum hardware requirements
@@ -35,17 +45,17 @@
 - **Menu Bar**: File, Edit, View, Run options
 - **Left Side Bar**: File browser, running kernels, extensions
 - **Main Work Area**: Notebooks, terminals, or text editors
-- Flexible layout for multitasking
 
-## Kernels in JupyterLab
-- Separate processes for executing code
-- Default kernel: Often Python 3 (depends on Hub setup)
-- Other options: R, Julia (if configured by admin)
-- Switch kernels via Kernel menu or launcher
+
+## Operations, Tips, Shortcuts
+- Making a markdown cell
+- Making a code cell
+- Running cells
+- Command mode and keyboard shortcuts
 
 ## Closing JupyterLab
 - Save your work: File > Save Notebook
-- Log out via Hub control panel (top-right, usually)
+- Log out via Hub control panel (File Menu)
 - Session persists until timeout (set by admin)
 - Reconnect by revisiting JupyterHub URL
 
