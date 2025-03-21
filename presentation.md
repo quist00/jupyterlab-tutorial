@@ -1,9 +1,3 @@
----
-title: Introduction to JupyterLab via JupyterHub
-author: David Palmquist
-date: March 20, 2025
----
-
 # Introduction to JupyterLab
 - 
 - David Palmquist
