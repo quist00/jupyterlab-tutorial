@@ -9,15 +9,17 @@
 - Can run Python, R, Julia, and more
 - Excellent tool for data science and teaching
 
-# Leverage Jupyter on your hardware
+# Jupyter on your hardware
 - Takes more work to setup
 - Limited to your hardware, but data never leaves your computer
 
-# Leverage Jupyter in the Cloud
+# Jupyter Cloud Based
 - Many options
   - Google Colab
   - Kaggle Notebooks
   - Azure Notebooks
+  - continued . . .
+# Jupyter Cloud Based
   - Binder
   - GitHub Codespaces
   - Jupyterhub aka Titan Computing Hub
