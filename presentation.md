@@ -5,8 +5,8 @@
 
 # What is JupyterLab?
 - Web-based interactive environment
-- Supports interleavingfunctioal code with data exploration and presentation in single portable file
-- Runs Python, R, Julia, and more
+- Supports interleaving functioal code with data exploration and presentation in single portable file
+- Can run Python, R, Julia, and more
 - Excellent tool for data science and teaching
 
 # Leverage Jupyter on your hardware
