@@ -9,12 +9,18 @@
 - Runs Python, R, Julia, and more
 - Excellent tool for data science and teaching
 
-# How can you leverage Jupyter
-- Local Computer
-  -Takes more work, limited to your hardware, but data never leaves your computer
-- Google Collab
-- JupyterLite
-- Jupyterhub aka Titan Computing Hub
+# Leverage Jupyter on your hardware
+- Takes more work to setup
+- Limited to your hardware, but data never leaves your computer
+
+# Leverage Jupyter in the Cloud
+- Many options
+  - Google Colab
+  - Kaggle Notebooks
+  - Azure Notebooks
+  - Binder
+  - GitHub Codespaces
+  - Jupyterhub aka Titan Computing Hub
 
 # Accessing JupyterLab via JupyterHub
 - No local installation needed
