@@ -12,7 +12,7 @@
 - Supports Python, R, Julia, and more
 - Ideal for data science, research, and teaching
 
-### What is JupyterLab?
+### JupyterLab: Open Notebook
 ![JupyterLab Launcher](images/jupyterlabopennotebook.png){ height=50% }
 
 ### Jupyter on Your Hardware
