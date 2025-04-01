@@ -4,6 +4,9 @@
 - Interface basics
 
 ### What is JupyterLab?
+![JupyterLab Launcher](images/lupyterlablauncher.png){ height=256px }
+
+### JupyterLab:
 - Browser-based interactive environment
 - Combines functional code, data exploration, and presentation in a single portable file
 - Supports Python, R, Julia, and more
