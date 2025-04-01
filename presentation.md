@@ -4,7 +4,7 @@
 - Interface basics
 
 ### What is JupyterLab?
-![JupyterLab Launcher](images/jupyterlablauncher.png){ height=30% }
+![JupyterLab Launcher](images/jupyterlablauncher.png){ height=512px }
 
 ### JupyterLab:
 - Browser-based interactive environment
