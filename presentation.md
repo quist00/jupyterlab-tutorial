@@ -54,9 +54,11 @@
 - **Left Side Bar**: File browser, running kernels, extensions
 - **Main Work Area**: Notebooks, terminals, or text editors
 
-# Command hints just for me
--`source venv/bin/activate`
-- `python -m jupyter lab`  
+# Demo: Leveraging other's work
+GLAM Workbench Wikidata Example(https://glam-workbench.net/wikidata/)
+- notes just for me
+  -`source venv/bin/activate`
+  - `python -m jupyter lab`  
 
 # Operations, Tips, Shortcuts
 - Making a markdown cell
@@ -75,10 +77,12 @@
 - Learn to install and leverage locally
   - [Take a Carpentries class that uses jupyter](https://carpentries.org/workshops/upcoming-workshops/)
 - Self-study on [linked in learning](https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter)
-- Return to JupyterHub if and when you find it is the best fit for your research
+- Return to JupyterHub if and when you find it is the best fit for your research needs
 
 # Resources
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 - [JupyterHub User Guide](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/)
 - [CSUF Jupyterhub](https://www.fullerton.edu/it/services/software/jupyter/)
+- [Carpentries: Open Data Science Education](https://carpentries.org/)
+- [Linked In Learning: Jupyter](https://www.linkedin.com/learning/introducing-jupyter/)
 
