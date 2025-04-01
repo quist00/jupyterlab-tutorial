@@ -39,8 +39,8 @@
 - set minimum hardware requirements
 - press start
 - wait for instance to go live
-    - you start with 5gb space
-    - filling it can stop your isntances from launching
+  - you start with 5gb space
+  - filling it can stop your isntances from launching
  
 # Closing JupyterLab
 - The slide so important you will see it twice :)
@@ -55,7 +55,7 @@
 - **Main Work Area**: Notebooks, terminals, or text editors
 
 # Demo: Leveraging other's work
-GLAM Workbench Wikidata Example(https://glam-workbench.net/wikidata/)
+[GLAM Workbench Wikidata Example](https://glam-workbench.net/wikidata/)
 - notes just for me
   -`source venv/bin/activate`
   - `python -m jupyter lab`  
