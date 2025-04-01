@@ -55,7 +55,7 @@
 # Demo: Leveraging other's work
 [GLAM Workbench Wikidata Example](https://glam-workbench.net/wikidata/)
 - notes just for me
-  -`source venv/bin/activate`
+  - `source venv/bin/activate`
   - `python -m jupyter lab`  
 
 # Operations, Tips, Shortcuts
