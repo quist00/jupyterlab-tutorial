@@ -18,8 +18,6 @@
   - Google Colab
   - Kaggle Notebooks
   - Azure Notebooks
-  - continued . . .
-# Jupyter Cloud Based
   - Binder
   - GitHub Codespaces
   - Jupyterhub aka Titan Computing Hub
