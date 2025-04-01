@@ -39,6 +39,7 @@
 - wait for instance to go live
   - you start with 5gb space
   - filling it can stop your isntances from launching
+- test
  
 # Closing JupyterLab
 - The slide so important you will see it twice :)
