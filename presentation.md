@@ -4,7 +4,7 @@
 - Interface basics
 
 ### What is JupyterLab?
-![JupyterLab Launcher](images/jupyterlablauncher.png){ height=80% }
+![JupyterLab Launcher](images/jupyterlablauncher.png){ height=66% }
 
 ### JupyterLab:
 - Browser-based interactive environment
@@ -13,7 +13,7 @@
 - Ideal for data science, research, and teaching
 
 ### What is JupyterLab?
-![JupyterLab Launcher](images/jupyterlabopennotebook.png){ height=80% }
+![JupyterLab Launcher](images/jupyterlabopennotebook.png){ height=66% }
 
 ### Jupyter on Your Hardware
 - Requires more setup effort
