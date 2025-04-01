@@ -44,7 +44,6 @@
 - Click `Start` and wait for the instance to launch
     - Starts with 5GB of storage
     - Overfilling storage may prevent launching
-- Test your setup
 
 ### Closing JupyterLab
 - Save your work: `File > Save Notebook`
