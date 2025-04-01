@@ -48,7 +48,7 @@
 - Log out via Hub control panel (File Menu)
 - Session persists until timeout (set by admin)
 - Reconnect by revisiting JupyterHub URL
-- 
+  
 # JupyterLab Interface
 - **Menu Bar**: File, Edit, View, Run options
 - **Left Side Bar**: File browser, running kernels, extensions
