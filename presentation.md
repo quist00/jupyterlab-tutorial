@@ -83,6 +83,7 @@
 ### Resources
 - [Gallery of Notebooks](https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md)
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
+- [nbviewer](https://nbviewer.org/)
 - [JupyterHub User Guide](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/)
 - [CSUF JupyterHub](https://www.fullerton.edu/it/services/software/jupyter/)
 - [Carpentries: Open Data Science Education](https://carpentries.org/)
