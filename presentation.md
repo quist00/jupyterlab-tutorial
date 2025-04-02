@@ -57,6 +57,7 @@
 - **Main Work Area**: Notebooks, terminals, text editors
 
 ### Demo: Leveraging Others' Work
+- Static Examples: [CS](https://nbviewer.org/github/yoavram/CS1001.py/blob/master/recitation1.ipynb), [Soc](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/1_into.ipynb), [Time Series](https://nbviewer.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb)
 - Example: [GLAM Workbench Wikidata](https://glam-workbench.net/wikidata/)
 - (Your personal notes: `source venv/bin/activate`, `python -m jupyter lab`)
 
@@ -80,6 +81,7 @@
 - Return to JupyterHub when it fits your research needs
 
 ### Resources
+- [Gallery of Notebooks](https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md)
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 - [JupyterHub User Guide](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/)
 - [CSUF JupyterHub](https://www.fullerton.edu/it/services/software/jupyter/)
