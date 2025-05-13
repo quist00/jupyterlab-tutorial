@@ -21,7 +21,7 @@
 ![JupyterLab Launcher](./images/jupyterlabopennotebook.png){ height=50% }
 
 ### And you can even go inception and Juptyer like this
-[IDE](./images/inception.png){ height=50% }
+![IDE](./images/inception.png){ height=50% }
 
 ### Where can you run Jupyter
 
