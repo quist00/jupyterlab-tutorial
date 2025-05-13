@@ -2,22 +2,34 @@
 - What is JupyterLab?
 - How can you access it?
 - Interface basics
+- Resources
+- Q & A
 
 ### What is JupyterLab?
-![JupyterLab Launcher](images/jupyterlablauncher.png){ height=512px }
-
-### JupyterLab:
 - Browser-based interactive environment
 - Combines functional code, data exploration, and presentation in a single portable file
 - Supports Python, R, Julia, and more
 - Ideal for data science, research, and teaching
 
-### JupyterLab: Open Notebook
-![JupyterLab Launcher](images/jupyterlabopennotebook.png){ height=50% }
+### JupyterLab: power of this, without all the clutter:
+![JupyterLab Launcher](./images/old-school.png){ height=50% }
+
+### Or if you prefer, much of this, less clutter:
+![JupyterLab Launcher](./images/ide.png){ height=50% }
+
+### Vanilla out of the box, looks something like this: 
+![JupyterLab Launcher](./images/jupyterlabopenotebook.png){ height=50% }
+
+### And you can even go inception and Juptyer like this:
+[JupyterLab Launcher](./images/jupyterlabopinceptionenotebook.png){ height=50% }
+
+### Where can you run Jupyter
 
 ### Jupyter on Your Hardware
 - Requires more setup effort
 - Limited by your hardware, but keeps data local
+- Example of launching local
+    - Notice: URL location
 
 ### Jupyter Cloud-Based Options
 - Multiple platforms available:
@@ -28,63 +40,56 @@
     - GitHub Codespaces
     - JupyterHub (e.g., Titan Computing Hub)
 
-### Accessing JupyterLab via JupyterHub
-- No local installation required
-- Open a web browser (e.g., Chrome, Firefox)
-- Navigate to your [JupyterHub URL](https://www.fullerton.edu/it/services/software/jupyter)
-
-### Accessing JupyterLab via JupyterHub (cont.)
-- Click `Launch JupyterHub`
-- Select `JupyterHub (Nautilus)`
-- Log in with campus credentials
-    - Choose "Campus" from the provider dropdown
-
-### Accessing JupyterLab via JupyterHub (cont.)
-- Set minimum hardware requirements
-- Click `Start` and wait for the instance to launch
-    - Starts with 5GB of storage
-    - Overfilling storage may prevent launching
-
-### Closing JupyterLab
-- Save your work: `File > Save Notebook`
-- Log out via the Hub Control Panel (`File` menu)
-- Session persists until timeout (set by admin)
-- Reconnect by revisiting the JupyterHub URL
+### Today we will focus on univeral tips for the common experience
+- In the interest of time, lets all work from this jupyter lite example:
+[https://jupyter.org/try-jupyter/lab/](https://jupyter.org/try-jupyter/lab/)
+    - jupyter lite is limited since it runs in a browswer sandbox
+        - requires no installation
+        - does not retain anything
 
 ### JupyterLab Interface
 - **Menu Bar**: File, Edit, View, Run options
 - **Left Sidebar**: File browser, running kernels, extensions
 - **Main Work Area**: Notebooks, terminals, text editors
 
-### Demo: Leveraging Others' Work
-- Static Examples: [CS](https://nbviewer.org/github/yoavram/CS1001.py/blob/master/recitation1.ipynb), [Soc](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/1_into.ipynb), [Time Series](https://nbviewer.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb)
-- Example: [GLAM Workbench Wikidata](https://glam-workbench.net/wikidata/)
-- (Your personal notes: `source venv/bin/activate`, `python -m jupyter lab`)
-
-### Operations, Tips, and Shortcuts
+### Operations, Tips, and Shortcuts 1
+- Create a notebook
+- Open a notebook
 - Create a Markdown cell
-- Create a code cell
+- Code Cell
 - Run cells
-- Use Command Mode and keyboard shortcuts
 
-### Closing JupyterLab (Repeated for Emphasis)
-- Save your work: `File > Save Notebook`
-- Log out via the Hub Control Panel (`File` menu)
-- Session persists until timeout (set by admin)
-- Reconnect by revisiting the JupyterHub URL
+### Operations, Tips, and Shortcuts 2
+- Markdown cell
+    - Headings
+    - Lists
+        - ordered
+        - unordered       
+    - Links
+    - Images [JupyterLab Launcher](./images/jupyterlabopinceptionenotebook.png){ height=50% }
+- Use Command Mode and keyboard shortcuts
+    - [esc]
+    -[a],[b],[x],[z],[m],[y]
+
+### Kernels
+- Interrupt
+- Restart
+    - while True: x=5
 
 ### Where to Go from Here
-- Experiment with JupyterHub to assess its value
+- Experiment with Jupyter to assess its value to your process
+    -Explore what your colleagues have already done:
+        - [CS](https://nbviewer.org/github/yoavram/CS1001.py/blob/master/recitation1.ipynb)
+        - [Soc](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/1_into.ipynb)
+        - [Time Series](https://nbviewer.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb)
 - Learn to install and use Jupyter locally
     - Explore [Carpentries workshops](https://carpentries.org/workshops/upcoming-workshops/)
 - Self-study via [LinkedIn Learning](https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter)
-- Return to JupyterHub when it fits your research needs
 
 ### Resources
 - [Gallery of Notebooks](https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md)
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 - [nbviewer](https://nbviewer.org/)
 - [JupyterHub User Guide](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/)
-- [CSUF JupyterHub](https://www.fullerton.edu/it/services/software/jupyter/)
 - [Carpentries: Open Data Science Education](https://carpentries.org/)
 - [LinkedIn Learning: Jupyter](https://www.linkedin.com/learning/introducing-jupyter/)
