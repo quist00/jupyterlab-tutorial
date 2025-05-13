@@ -18,10 +18,10 @@
 ![JupyterLab Launcher](./images/ide.png){ height=50% }
 
 ### Vanilla out of the box, looks something like this: 
-![JupyterLab Launcher](./images/jupyterlabopenotebook.png){ height=50% }
+![JupyterLab Launcher](./images/jupyterlabopennotebook.png){ height=50% }
 
 ### And you can even go inception and Juptyer like this:
-[JupyterLab Launcher](./images/jupyterlabopinceptionenotebook.png){ height=50% }
+[JupyterLab Launcher](./images/inception.png){ height=50% }
 
 ### Where can you run Jupyter
 
