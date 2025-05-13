@@ -55,8 +55,7 @@
 ### Operations, Tips, and Shortcuts 1
 - Create a notebook
 - Open a notebook
-- Create a Markdown cell
-- Code Cell
+- Create a Code Cell
 - Run cells
 
 ### Operations, Tips, and Shortcuts 2
@@ -66,10 +65,15 @@
         - ordered
         - unordered       
     - Links
-    - Images [JupyterLab Launcher](./images/jupyterlabopinceptionenotebook.png){ height=50% }
+    - Images `[JupyterLab Launcher](./images/jupyterlabopinceptionenotebook.png){ height=50% }`
+
+### Operations, Tips, and Shortcuts 3
 - Use Command Mode and keyboard shortcuts
     - [esc]
     -[a],[b],[x],[z],[m],[y]
+- magic commands
+    `%%time
+    sum(i**2 for i in range(1, 50000001))`
 
 ### Kernels
 - Interrupt
