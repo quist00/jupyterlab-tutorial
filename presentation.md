@@ -72,7 +72,7 @@
     - [esc]
     -[a],[b],[x],[z],[m],[y]
 - magic commands
-    `%%time
+    -`%%time
     sum(i**2 for i in range(1, 50000001))`
 
 ### Kernels
