@@ -11,17 +11,17 @@
 - Supports Python, R, Julia, and more
 - Ideal for data science, research, and teaching
 
-### JupyterLab: power of this, without all the clutter:
-![JupyterLab Launcher](./images/old-school.png){ height=50% }
+### JupyterLab: power of this, without all the clutter
+![Old School](./images/old-school.png){ height=50% }
 
-### Or if you prefer, much of this, less clutter:
-![JupyterLab Launcher](./images/ide.png){ height=50% }
+### Or if you prefer, much of this, less clutter
+![New School](./images/ide.png){ height=50% }
 
-### Vanilla out of the box, looks something like this: 
+### Vanilla out of the box, looks something like this 
 ![JupyterLab Launcher](./images/jupyterlabopennotebook.png){ height=50% }
 
-### And you can even go inception and Juptyer like this:
-[JupyterLab Launcher](./images/inception.png){ height=50% }
+### And you can even go inception and Juptyer like this
+[IDE](./images/inception.png){ height=50% }
 
 ### Where can you run Jupyter
 
