@@ -106,6 +106,6 @@
 
 ### Q & A
 
-Jupyter is an open source tool. Powerful in isolation and even more so in collaboration. It helps limit cognitive load in both generation and consumption of knowledge. In my opintion, the learning curve is worth it, so add it to your tookbox today.  Figure out how many things look like a nail tomorrow :)
+Jupyter is an open source tool. Powerful in isolation and even more so in collaboration. It helps limit cognitive load in both generation and consumption of knowledge. In my opinion, the learning curve is worth it, so add it to your tookbox today.  Figure out how many things look like a nail tomorrow :)
 
 What questions should we explore?
