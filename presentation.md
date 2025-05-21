@@ -69,7 +69,7 @@
         - ordered
         - unordered       
     - Links
-    - Images `[JupyterLab Launcher](./images/jupyterlabopinceptionenotebook.png){ height=50% }`
+    - Images `![plot](./data/matplotlib.png)`
 
 ### Operations, Tips, and Shortcuts 3
 - Use Command Mode and keyboard shortcuts
@@ -87,14 +87,16 @@
 ### Where to Go from Here
 - Experiment with Jupyter to assess its value to your process
     -Explore what your colleagues have already done:
-        - [CS](https://nbviewer.org/github/yoavram/CS1001.py/blob/master/recitation1.ipynb)
-        - [Soc](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/1_into.ipynb)
-        - [Time Series](https://nbviewer.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb)
+        - [Berkely Data Science Modules](https://ds-modules.github.io/library/)
+        - [Gallery of Notebooks (api-issue)]
+            - [CS-direct](https://github.com/yoavram/CS1001.py/blob/master/recitation1.ipynb)
+            - [Soc-direct](https://github.com/nealcaren/workshop_2014/blob/master/notebooks/1_into.ipynb)
 - Learn to install and use Jupyter locally
     - Explore [Carpentries workshops](https://carpentries.org/workshops/upcoming-workshops/)
 - Self-study via [LinkedIn Learning](https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter)
 
 ### Resources
+- [Berkely Data Science Modules](https://ds-modules.github.io/library/)
 - [Gallery of Notebooks](https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md)
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 - [nbviewer](https://nbviewer.org/)
