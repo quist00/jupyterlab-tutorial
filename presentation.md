@@ -86,7 +86,7 @@
 
 ### Where to Go from Here
 - Experiment with Jupyter to assess its value to your process
-    -Explore what your colleagues have already done:
+    - Explore what your colleagues have already done:
         - [Berkely Data Science Modules](https://ds-modules.github.io/library/)
         - [Gallery of Notebooks (api-issue)]
             - [CS-direct](https://github.com/yoavram/CS1001.py/blob/master/recitation1.ipynb)
