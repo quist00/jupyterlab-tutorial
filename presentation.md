@@ -1,6 +1,10 @@
-### Introduction to JupyterLab
-- What is JupyterLab?
-- How can you access it?
+### Introduction to JupyterLab 
+- David Palmquist
+    - Library Systems Team, CSUF Pollak Library
+
+### What will be touched on
+- What is JupyterLab
+- Where can you run it
 - Interface basics
 - Resources
 - Q & A
