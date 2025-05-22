@@ -1,6 +1,9 @@
 ### Introduction to JupyterLab 
 - David Palmquist
     - Library Systems Team, CSUF Pollak Library
+- Chat Assistance
+    - Tu-an Nguyen, Analyst/Programmer
+    - Christina Cagu, Student Assistant
 
 ### What will be touched on
 - What is JupyterLab
@@ -74,7 +77,7 @@
 ### Operations, Tips, and Shortcuts 3
 - Use Command Mode and keyboard shortcuts
     - [esc]
-    -[a],[b],[x],[z],[m],[y]
+    - [a],[b],[x],[z],[m],[y]
 - magic commands
     - `%%time
     sum(i**2 for i in range(1, 50000001))`
