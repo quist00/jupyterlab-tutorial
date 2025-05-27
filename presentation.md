@@ -55,7 +55,7 @@ Before rolling any further, lets take a moment for a short poll to gauge audienc
 [https://jupyter.org/try-jupyter/lab/](https://jupyter.org/try-jupyter/lab/)
     - jupyter lite is limited since it runs in a browswer sandbox
         - requires no installation
-        - does not retain anything
+        - limited persistence to browser cache / network options
 
 ### JupyterLab Interface
 - **Menu Bar**: File, Edit, View, Run options
