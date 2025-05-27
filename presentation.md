@@ -12,6 +12,9 @@
 - Resources
 - Q & A
 
+### Poll
+Before rolling any further, lets take a moment for a short poll to gauge audience familiarity.
+
 ### What is JupyterLab?
 - Browser-based interactive environment
 - Combines functional code, data exploration, and presentation in a single portable file
