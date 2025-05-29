@@ -103,6 +103,7 @@ Before rolling any further, lets take a moment for a short poll to gauge audienc
 
 ### Resources
 - [Berkely Data Science Modules](https://ds-modules.github.io/library/)
+    - [Data8](https://www.data8.org/zero-to-data-8/notebooks-platforms/intro.html)
 - [Gallery of Notebooks](https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md)
 - [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 - [nbviewer](https://nbviewer.org/)
@@ -112,6 +113,6 @@ Before rolling any further, lets take a moment for a short poll to gauge audienc
 
 ### Q & A
 
-Jupyter is an open source tool. Powerful in isolation and even more so in collaboration. It helps limit cognitive load in both generation and consumption of knowledge. In my opinion, the learning curve is worth it, so add it to your tookbox today.  Figure out how many things look like a nail tomorrow :)
+Jupyter is an open source tool. Powerful in isolation and even more so in collaboration. It helps limit cognitive load in both generation and consumption of knowledge. In my opinion, the learning curve is worth it, so add it to your toolbox today.  Figure out how many things look like a nail tomorrow :)
 
 What questions should we explore?
